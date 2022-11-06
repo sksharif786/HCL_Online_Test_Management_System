@@ -188,9 +188,9 @@ CREATE TABLE `exam_tbl` (
 --
 
 INSERT INTO `exam_tbl` (`ex_id`, `cou_id`, `ex_title`, `ex_time_limit`, `ex_questlimit_display`, `ex_description`, `ex_created`) VALUES
-(11, 26, 'Duerms', '1', 2, 'qwe', '2019-12-05 12:03:21'),
-(12, 26, 'Another Exam', '1', 5, 'Mabilisang Exam', '2019-12-04 15:19:18'),
-(13, 26, 'Exam Again', '5', 0, 'again and again\r\n', '2019-11-30 08:24:54');
+(11, 26, 'Duerms', '1', 2, 'qwe', '2022-12-05 12:03:21'),
+(12, 26, 'Another Exam', '1', 5, 'Mabilisang Exam', '2022-12-04 15:19:18'),
+(13, 26, 'Exam Again', '5', 0, 'again and again\r\n', '2022-11-30 08:24:54');
 
 -- --------------------------------------------------------
 
